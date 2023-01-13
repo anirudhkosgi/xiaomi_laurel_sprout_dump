@@ -1,0 +1,15 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=4096
+dt=dt.img
+kernel_size=14373438
+ramdisk_size=12320800
+dtb_size=1
+base_addr=0x00000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+dtbo_offset=0x00000000
+cmd_line='console=ttyMSM0,115200n8 androidboot.console=ttyMSM0 earlycon=msm_serial_dm,0x4a90000 androidboot.hardware=qcom msm_rtb.filter=0x237 lpm_levels.sleep_disabled=1 service_locator.enable=1 swiotlb=1 androidboot.configfs=true androidboot.usbcontroller=4e00000.dwc3 androidboot.init_fatal_reboot_target=recovery loop.max_part=7 buildvariant=userdebug'
+board=""
+format=gzip

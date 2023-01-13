@@ -1,0 +1,18 @@
+## laurel_sprout-user 11 RKQ1.200903.002 V12.0.26.0.RFQMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: laurel_sprout
+- Brand: Xiaomi
+- Flavor: statix_laurel_sprout-userdebug
+- Release Version: 13
+- Id: TQ1A.230105.002
+- Incremental: eng.vijay.20230108.183938
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.26.0.RFQMIXM:user/release-keys
+- OTA version: 
+- Branch: laurel_sprout-user-11-RKQ1.200903.002-V12.0.26.0.RFQMIXM-release-keys
+- Repo: xiaomi_laurel_sprout_dump
